@@ -1,0 +1,387 @@
+{
+  "data" : [ {
+    "mpId" : 0,
+    "mpLocationId" : "MP10-00",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 1,
+    "mpLocationId" : "MP10-01",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 2,
+    "mpLocationId" : "MP10-02",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 3,
+    "mpLocationId" : "MP10-03",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 4,
+    "mpLocationId" : "MP10-04",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 5,
+    "mpLocationId" : "MP10-05",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 6,
+    "mpLocationId" : "MP10-06",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 7,
+    "mpLocationId" : "MP10-07",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 8,
+    "mpLocationId" : "MP10-08",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 9,
+    "mpLocationId" : "MP10-09",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 10,
+    "mpLocationId" : "MP10-0A",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 11,
+    "mpLocationId" : "MP10-0B",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 12,
+    "mpLocationId" : "MP10-0C",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 13,
+    "mpLocationId" : "MP10-0D",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 14,
+    "mpLocationId" : "MP10-0E",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 15,
+    "mpLocationId" : "MP10-0F",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 16,
+    "mpLocationId" : "MP10-10",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 17,
+    "mpLocationId" : "MP10-11",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 18,
+    "mpLocationId" : "MP10-12",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 19,
+    "mpLocationId" : "MP10-13",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 20,
+    "mpLocationId" : "MP10-14",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 21,
+    "mpLocationId" : "MP10-15",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 22,
+    "mpLocationId" : "MP10-16",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 23,
+    "mpLocationId" : "MP10-17",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 24,
+    "mpLocationId" : "MP10-18",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 25,
+    "mpLocationId" : "MP10-19",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 26,
+    "mpLocationId" : "MP10-1A",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 27,
+    "mpLocationId" : "MP10-1B",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 28,
+    "mpLocationId" : "MP10-1C",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 29,
+    "mpLocationId" : "MP10-1D",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 30,
+    "mpLocationId" : "MP10-1E",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 31,
+    "mpLocationId" : "MP10-1F",
+    "mpUnitId" : "MPU-10",
+    "ctl" : "ctl1",
+    "cbx" : -1
+  }, {
+    "mpId" : 32,
+    "mpLocationId" : "MP20-00",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 33,
+    "mpLocationId" : "MP20-01",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 34,
+    "mpLocationId" : "MP20-02",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 35,
+    "mpLocationId" : "MP20-03",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 36,
+    "mpLocationId" : "MP20-04",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 37,
+    "mpLocationId" : "MP20-05",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 38,
+    "mpLocationId" : "MP20-06",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 39,
+    "mpLocationId" : "MP20-07",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 40,
+    "mpLocationId" : "MP20-08",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 41,
+    "mpLocationId" : "MP20-09",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 42,
+    "mpLocationId" : "MP20-0A",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 43,
+    "mpLocationId" : "MP20-0B",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 44,
+    "mpLocationId" : "MP20-0C",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 45,
+    "mpLocationId" : "MP20-0D",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 46,
+    "mpLocationId" : "MP20-0E",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 47,
+    "mpLocationId" : "MP20-0F",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 48,
+    "mpLocationId" : "MP20-10",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 49,
+    "mpLocationId" : "MP20-11",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 50,
+    "mpLocationId" : "MP20-12",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 51,
+    "mpLocationId" : "MP20-13",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 52,
+    "mpLocationId" : "MP20-14",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 53,
+    "mpLocationId" : "MP20-15",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 54,
+    "mpLocationId" : "MP20-16",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 55,
+    "mpLocationId" : "MP20-17",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 56,
+    "mpLocationId" : "MP20-18",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 57,
+    "mpLocationId" : "MP20-19",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 58,
+    "mpLocationId" : "MP20-1A",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 59,
+    "mpLocationId" : "MP20-1B",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 60,
+    "mpLocationId" : "MP20-1C",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 61,
+    "mpLocationId" : "MP20-1D",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 62,
+    "mpLocationId" : "MP20-1E",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  }, {
+    "mpId" : 63,
+    "mpLocationId" : "MP20-1F",
+    "mpUnitId" : "MPU-20",
+    "ctl" : "ctl2",
+    "cbx" : -1
+  } ]
+}

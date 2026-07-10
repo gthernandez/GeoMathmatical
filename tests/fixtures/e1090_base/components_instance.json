@@ -1,0 +1,191 @@
+{
+  "system" : {
+    "powerConsumption" : 500
+  },
+  "ctls" : [ {
+    "location" : "CTL1",
+    "status" : "Normal",
+    "temperature" : 29,
+    "temperatureStatus" : "Normal",
+    "charge" : 100,
+    "type" : "-"
+  }, {
+    "location" : "CTL2",
+    "status" : "Normal",
+    "temperature" : 29,
+    "temperatureStatus" : "Normal",
+    "charge" : 100,
+    "type" : "-"
+  } ],
+  "cacheMemories" : [ {
+    "location" : "CTL1 CMG0",
+    "status" : "Normal",
+    "cacheSize" : 64
+  }, {
+    "location" : "CTL2 CMG0",
+    "status" : "Normal",
+    "cacheSize" : 64
+  } ],
+  "chbs" : [ {
+    "location" : "CHB-1A",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1B",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1C",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1D",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1E",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1F",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1G",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1H",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1J",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1K",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1L",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-1M",
+    "status" : "Normal",
+    "type" : "32G Ready 4Port FC"
+  }, {
+    "location" : "CHB-2A",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2B",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2C",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2D",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2E",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2F",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2G",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2H",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2J",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2K",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2L",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  }, {
+    "location" : "CHB-2M",
+    "status" : "Normal",
+    "type" : "10G 2Port iSCSI (Optic)"
+  } ],
+  "cacheFlashMemories" : [ {
+    "location" : "CFM-10",
+    "status" : "Normal",
+    "type" : "BM15"
+  }, {
+    "location" : "CFM-20",
+    "status" : "Normal",
+    "type" : "BM15"
+  } ],
+  "dkbs" : [ ],
+  "lanbs" : [ ],
+  "sfps" : [ {
+    "portId" : "1A",
+    "status" : "Normal",
+    "type" : "Short Wave",
+    "speed" : "16 Gbps",
+    "portCondition" : "Available (Connected)"
+  } ],
+  "bkmfs" : [ {
+    "location" : "BKMF-01",
+    "status" : "Normal",
+    "batteries" : [ {
+      "location" : "BAT-B01",
+      "status" : "Normal",
+      "life" : 77
+    } ]
+  }, {
+    "location" : "BKMF-02",
+    "status" : "Normal",
+    "batteries" : [ {
+      "location" : "BAT-B02",
+      "status" : "Normal",
+      "life" : 77
+    } ]
+  } ],
+  "dkcpss" : [ {
+    "location" : "DKCPS1",
+    "status" : "Normal"
+  }, {
+    "location" : "DKCPS2",
+    "status" : "Normal"
+  } ],
+  "driveBoxes" : [ {
+    "location" : "DB-00",
+    "type" : "DBS",
+    "led" : "OFF",
+    "drives" : [ {
+      "location" : "HDD00-00",
+      "modelCode" : "XXXXX-XXXXXX",
+      "status" : "Normal",
+      "usage" : "Data",
+      "recomendReplacement" : 0
+    } ],
+    "encs" : [ ],
+    "dbps" : [ ]
+  } ],
+  "fans" : [ ],
+  "upsMode" : "Standard Mode",
+  "pecbs" : [ ],
+  "chbb" : {
+  },
+  "pcps" : [ ],
+  "swpks" : [ ],
+  "chbbfans" : [ ],
+  "chbbpss" : [ ]
+}

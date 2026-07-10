@@ -1,0 +1,12 @@
+# GeoMathmatical v0 (Python reference build) -- dependencies.
+#
+# STDLIB ONLY by design (plan 2.4): urllib for HTTP, ssl for the self-signed
+# array cert, json/configparser/getpass for the rest. Nothing to pip install --
+# a field engineer runs this against a customer box with a stock Python 3.
+#
+# Rationale mirrors the PowerShell target (D26): zero third-party runtime so the
+# tool ships to a locked-down jump box unchanged.
+#
+# Dev/test only (not required to run): pytest, for the replay-baseline
+# regression tests (plan 13). Install in a venv if you develop the test surface:
+#   python -m venv .venv && .venv/Scripts/activate && pip install pytest

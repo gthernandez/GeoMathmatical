@@ -1,0 +1,1 @@
+{"data": [{"remotepathGroupId": "447788,M8,0", "remoteSerialNumber": "447788", "remoteStorageTypeId": "M8", "pathGroupId": 0, "cuType": "REMOTE", "portType": "FIBRE", "cuStatus": "NML", "minNumOfPaths": 1, "numOfPaths": 1, "timeoutValueForRemoteIOInSeconds": 15, "roundTripTimeInMilliSeconds": 1}]}

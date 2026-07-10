@@ -1,0 +1,38 @@
+{
+  "data" : [ {
+    "quorumDiskId" : 0,
+    "remoteSerialNumber" : "449900",
+    "remoteStorageTypeId" : "M8",
+    "ldevId" : 100,
+    "readResponseGuaranteedTime" : 40,
+    "status" : "NORMAL"
+  }, {
+    "quorumDiskId" : 1,
+    "remoteSerialNumber" : "449900",
+    "remoteStorageTypeId" : "M8",
+    "ldevId" : 101,
+    "readResponseGuaranteedTime" : 40,
+    "status" : "NORMAL"
+  }, {
+    "quorumDiskId" : 2,
+    "remoteSerialNumber" : "449900",
+    "remoteStorageTypeId" : "M8",
+    "ldevId" : 102,
+    "readResponseGuaranteedTime" : 40,
+    "status" : "NORMAL"
+  }, {
+    "quorumDiskId" : 3,
+    "remoteSerialNumber" : "449900",
+    "remoteStorageTypeId" : "M8",
+    "ldevId" : 103,
+    "readResponseGuaranteedTime" : 40,
+    "status" : "NORMAL"
+  }, {
+    "quorumDiskId" : 4,
+    "remoteSerialNumber" : "449900",
+    "remoteStorageTypeId" : "M8",
+    "ldevId" : 104,
+    "readResponseGuaranteedTime" : 40,
+    "status" : "NORMAL"
+  } ]
+}

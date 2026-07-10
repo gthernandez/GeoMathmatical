@@ -1,0 +1,15 @@
+{
+  "data" : [ {
+    "snapshotGroupName" : "SSG0",
+    "snapshotGroupId" : "SSG0"
+  }, {
+    "snapshotGroupName" : "SSG1",
+    "snapshotGroupId" : "SSG1"
+  }, {
+    "snapshotGroupName" : "SSG2",
+    "snapshotGroupId" : "SSG2"
+  }, {
+    "snapshotGroupName" : "SSG3",
+    "snapshotGroupId" : "SSG3"
+  } ]
+}

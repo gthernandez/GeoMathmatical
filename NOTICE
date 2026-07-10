@@ -1,0 +1,24 @@
+GeoMathmatical
+Copyright 2026 Griffin Hernandez
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+-------------------------------------------------------------------------------
+Trademarks
+-------------------------------------------------------------------------------
+"Hitachi", "Hitachi Vantara", "VSP", and related product and model names are
+trademarks or registered trademarks of Hitachi, Ltd. and/or its affiliates.
+
+This project is an independent, unofficial, community tool. It is NOT affiliated
+with, endorsed by, sponsored by, or supported by Hitachi. References to Hitachi
+products and to public documentation (MK-* numbers) describe interoperability
+and provenance only.
+
+-------------------------------------------------------------------------------
+Test fixtures
+-------------------------------------------------------------------------------
+The offline fixtures under tests/fixtures/ are captures from a Hitachi VSP
+*training simulator*, never a production array. Every identifier in them is
+synthetic: serial numbers are placeholder values, and IP addresses use the
+RFC 5737 documentation range (192.0.2.0/24). No customer or production data is
+present anywhere in this repository.

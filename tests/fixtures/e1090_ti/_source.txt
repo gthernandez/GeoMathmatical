@@ -1,0 +1,4 @@
+Fixture case: e1090_ti
+Source (lab sim, committable per D33): Reference/Captures/capture_20260707_105306
+Endpoint files copied verbatim: 29
+LDEVs: kept 190 of 65280 rows (first 190 + 0 referenced by replication/LU-path objects), re-split into 3 page(s) of 64 (deliberate trim; see build_fixtures.py). Full-scale set stays in Reference/Captures/.

@@ -1,0 +1,31 @@
+{
+  "data" : [ {
+    "hostWwnId" : "CL1-A,0,13570bb24e000000",
+    "portId" : "CL1-A",
+    "hostGroupNumber" : 0,
+    "hostGroupName" : "1A-G00",
+    "hostWwn" : "13570bb24e000000",
+    "wwnNickname" : "-"
+  }, {
+    "hostWwnId" : "CL1-A,0,13570bb24e000001",
+    "portId" : "CL1-A",
+    "hostGroupNumber" : 0,
+    "hostGroupName" : "1A-G00",
+    "hostWwn" : "13570bb24e000001",
+    "wwnNickname" : "-"
+  }, {
+    "hostWwnId" : "CL1-A,0,13570bb24e000002",
+    "portId" : "CL1-A",
+    "hostGroupNumber" : 0,
+    "hostGroupName" : "1A-G00",
+    "hostWwn" : "13570bb24e000002",
+    "wwnNickname" : "-"
+  }, {
+    "hostWwnId" : "CL1-A,0,13570bb24e000003",
+    "portId" : "CL1-A",
+    "hostGroupNumber" : 0,
+    "hostGroupName" : "1A-G00",
+    "hostWwn" : "13570bb24e000003",
+    "wwnNickname" : "-"
+  } ]
+}

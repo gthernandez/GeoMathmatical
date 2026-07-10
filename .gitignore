@@ -1,0 +1,9 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Runtime artifacts -- may carry real array identifiers or credentials; never commit.
+geomathmatical.cfg
+mapping.*.json
+capture*.json
+audit_report*.json

@@ -1,0 +1,9 @@
+{
+  "data" : [ {
+    "hostGroupId" : "CL1-A,0",
+    "portId" : "CL1-A",
+    "hostGroupNumber" : 0,
+    "hostGroupName" : "1A-G00",
+    "hostMode" : "LINUX/IRIX"
+  } ]
+}
