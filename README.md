@@ -47,8 +47,20 @@ python geomathmatical.py --out capture.json    # capture (prompts for the REST p
 .\geomathmatical.ps1 -Out capture.json
 ```
 
-Offline, no array needed: point either build at a captured folder with
-`--replay <dir>` / `-Replay <dir>`.
+### Offline / no array
+
+`--replay <dir>` (`-Replay <dir>`) runs the whole pipeline against a previously
+**captured folder** instead of a live array. You produce such a folder from a live array
+with a `--raw-dir <dir>` (`-RawDir <dir>`) capture run -- it writes each endpoint to disk
+as it is fetched and is resumable -- then transform it offline later with `--replay`.
+
+No array handy? The repo ships ready-made capture folders under `tests/fixtures/`. The
+simplest way to exercise the full pipeline with no array is the bundled offline suite
+(it also sets the right page size for the trimmed fixtures):
+
+```
+python tests/run_fixtures.py
+```
 
 `--ldev-option` (default `defined`) controls which LDEVs are pulled; `defined` skips the
 mostly-empty address slots. Pass `--help` for the full flag list; both builds print a
